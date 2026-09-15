@@ -108,3 +108,9 @@ main.container { padding: 40px 20px; min-height: 60vh; }
     .header-inner { flex-direction: column; gap: 10px; }
     .hero-actions { flex-direction: column; }
 }
+
+/* Улучшение отображения ссылки на главной странице */
+.hero .btn {
+    min-width: 150px;
+    text-align: center;
+}
